@@ -9,4 +9,4 @@
 
 ![alt text][screenshot]
 
-[screenshot]:https://github.com/ZaideRahman/html_css_layout_p1/blob/main/new.jpg
+[screenshot]:https://github.com/ZaideRahman/html_css_layout_p2/blob/main/edge.jpg
