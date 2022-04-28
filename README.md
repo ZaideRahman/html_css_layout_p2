@@ -5,7 +5,7 @@
 * CSS
 * Image
 * Editor(sublime text)
-## [Demo to View]https://zaiderahman.github.io/html_css_layout_p2/)
+## [Demo to View](https://zaiderahman.github.io/html_css_layout_p2/)
 
 ![alt text][screenshot]
 
